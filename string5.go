@@ -12,4 +12,4 @@ func main() {
 	for _, l := range matriz {
 		fmt.Println(l)
 	}
-}	
+}
